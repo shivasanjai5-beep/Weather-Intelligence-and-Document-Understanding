@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+pandas
+plotly
+pypdf
+scikit-learn
+duckduckgo-search
